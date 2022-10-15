@@ -5,7 +5,7 @@ public class TiposVariaveis {
 
         //String meuNome = "JOAO CARLOS ALMEIDA MARINHO"
 
-        short numeroCurto = 1;
+       /* short numeroCurto = 1;
         int numeroNormal = numeroCurto;
         short numeroCurto2 = (short) numeroNormal;
         
@@ -15,7 +15,7 @@ public class TiposVariaveis {
 
 		System.out.print(numero);
 
-        final double VALOR_DE_PI = 3.14;
+        final double VALOR_DE_PI = 3.14;*/
 
 
 
